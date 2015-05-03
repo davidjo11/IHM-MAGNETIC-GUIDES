@@ -74,7 +74,7 @@ public class MagneticGuides extends JFrame {
 						seg.addTag(magnet);
 						seg.belowAll();
 						seg.setOutlinePaint(null);
-						seg.setStroke(new BasicStroke(3, BasicStroke.CAP_BUTT, BasicStroke.JOIN_BEVEL, 0, new float[]{4}, 0));
+//						seg.setStroke(new BasicStroke(3, BasicStroke.CAP_BUTT, BasicStroke.JOIN_BEVEL, 0, new float[]{4}, 0));
 						System.out.println("Horizontal segment created!");
 						
 					}
@@ -88,7 +88,7 @@ public class MagneticGuides extends JFrame {
 						seg.addTag(magnet);
 						seg.belowAll();
 						seg.setOutlinePaint(null);
-						seg.setStroke(new BasicStroke(3, BasicStroke.CAP_BUTT, BasicStroke.JOIN_BEVEL, 0, new float[]{4}, 0));
+//						seg.setStroke(new BasicStroke(3, BasicStroke.CAP_BUTT, BasicStroke.JOIN_BEVEL, 0, new float[]{4}, 0));
 						System.out.println("Vertical segment created!");
 					}
 				};
