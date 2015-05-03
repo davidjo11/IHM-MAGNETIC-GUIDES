@@ -31,6 +31,7 @@ import fr.lri.swingstates.sm.transitions.Release;
  * @author Nicolas Roussel (roussel@lri.fr)
  *
  */
+@SuppressWarnings({"unused", "serial"})
 public class MagneticGuides extends JFrame {
 
 	private Canvas canvas ;

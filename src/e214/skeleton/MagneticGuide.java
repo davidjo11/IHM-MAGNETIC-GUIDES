@@ -7,6 +7,7 @@ import fr.lri.swingstates.canvas.CSegment;
 import fr.lri.swingstates.canvas.CShape;
 import fr.lri.swingstates.canvas.Canvas;
 
+@SuppressWarnings("unused")
 public class MagneticGuide extends CExtensionalTag{
 	
 	
